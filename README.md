@@ -15,7 +15,7 @@ You should be able to open http://127.0.0.1:8000/zuri-admin/ and login to the ad
 Stage and Commit your Django project and push your changes to your GitHub repository. 
 Do not add your database (db.sqlite) to version control (GitHub). 
 Ensure your final code/submission is on the default branch of your GitHub repository.
-### 🔧 Tools
+### 🔧 Tools:
 Django version 4.0.5
 
 Python version 3.10.4
@@ -26,7 +26,7 @@ Git 2.36.1
 
 Github repository
 
-### 📌 Important links
+### 📌 Important links:
 --Django: https://www.djangoproject.com/
 
 --Python: https://www.python.org/
